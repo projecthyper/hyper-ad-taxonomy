@@ -1,0 +1,83 @@
+{
+    "version": 0.1,
+    "taxonomy": {
+        "advertiser": {
+            "industry": [
+                "apps",
+                "automotive",
+                "clothing",
+                "financial-services",
+                "food-and-candy",
+                "gaming",
+                "insurance",
+                "local-services",
+                "media",
+                "online-services",
+                "non-rx-remedies",
+                "personal-care-products",
+                "pharmaceuticals",
+                "restaurants",
+                "retail",
+                "technology",
+                "telecom",
+                "travel-and-tourism"
+            ],
+            "brand-awareness": [
+                "high",
+                "medium",
+                "low",
+                "none"
+            ],
+            "typical-ad-load": [
+                "high",
+                "medium",
+                "low",
+                "none"
+            ]
+        },
+        "product": {
+            "product-awareness": [
+                "high",
+                "medium",
+                "low",
+                "none"
+            ],
+            "product-release-type": [
+                "new-product",
+                "new-version-of-existing-product"
+            ],
+            "audience-appeal": [
+                "mainstream",
+                "vertical"
+            ],
+            "market-share": [
+                "high",
+                "medium",
+                "low",
+                "none"
+            ],
+            "product-buzz": [
+                "high",
+                "medium",
+                "low",
+                "none"
+            ]
+        },
+        "campaign": {
+            "campaign-awareness": [
+                "high",
+                "medium",
+                "low",
+                "none"
+            ]
+        },
+        "creative": {
+            "creative-features": [
+                "product-focused",
+                "celebrity",
+                "discount-or-sale",
+                "minimalistic"
+            ]
+        }
+    }
+}
