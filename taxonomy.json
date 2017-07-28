@@ -1,5 +1,5 @@
 {
-    "version": 0.1,
+    "version": 0.2,
     "taxonomy": {
         "advertiser": {
             "industry": [
@@ -61,6 +61,10 @@
                 "medium",
                 "low",
                 "none"
+            ],
+            "purchase-consideration": [
+                "high",
+                "low"
             ]
         },
         "campaign": {
